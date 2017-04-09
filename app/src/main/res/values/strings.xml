@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic Android Test</string>
+    <string name="lesson_one">Lesson One</string>
+    <string name="lesson_two">Lesson Two</string>
+    <string name="input_number">Input Decimal Number</string>
+    <string name="check">Check</string>
+</resources>

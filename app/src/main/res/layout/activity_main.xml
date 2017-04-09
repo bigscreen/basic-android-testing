@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.golect.basicandroidtest.MainActivity">
+
+    <TextView
+        android:id="@+id/text_lesson_one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?selectableItemBackground"
+        android:onClick="lessonMenuClick"
+        android:padding="18dp"
+        android:text="@string/lesson_one"
+        android:textSize="16sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:background="#aeaeae" />
+
+    <TextView
+        android:id="@+id/text_lesson_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?selectableItemBackground"
+        android:onClick="lessonMenuClick"
+        android:padding="18dp"
+        android:text="@string/lesson_two"
+        android:textSize="16sp" />
+
+</LinearLayout>
