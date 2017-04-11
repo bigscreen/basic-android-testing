@@ -1,4 +1,5 @@
 # basic-android-testing
-Sample of basic android unit tests and instrumentation tests.
+This project contains sample implementation of unit tests and instrumentations test on android.
+It is made for GO-JEK Lecturing program purpose.
 
-Tutorial in bahasa Indonesia can be downloaded on [here](https://goo.gl/kiUwkV).
+Every step to create this project is well explained in this [tutorial](https://goo.gl/kiUwkV).
